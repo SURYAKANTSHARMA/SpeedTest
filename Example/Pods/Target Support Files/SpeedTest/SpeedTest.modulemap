@@ -1,0 +1,6 @@
+framework module SpeedTest {
+  umbrella header "SpeedTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

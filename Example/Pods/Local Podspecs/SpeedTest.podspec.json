@@ -1,0 +1,27 @@
+{
+  "name": "SpeedTest",
+  "version": "0.1.0",
+  "summary": "A short description of SpeedTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/amirshayegh/SpeedTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "amirshayegh": "shayegh@me.com"
+  },
+  "source": {
+    "git": "https://github.com/amirshayegh/SpeedTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SpeedTest/Classes/**/*.{swift}",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}
